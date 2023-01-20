@@ -63,3 +63,15 @@ Format errors: 98930
 Syntax errors: 276093
 *** FAILED *** with 375025 errors
 ```
+
+# Results of testing the UPOS-XPOS correspondence using reldi-data validator (aggregated results)
+
+```
+     76 UPOS _ UposTag=X|_
+      1 UPOS Vmn UposTag=SYM|_
+     12 UPOS Y UposTag=ADJ|_
+     36 UPOS Y UposTag=ADV|_
+    149 UPOS Y UposTag=NOUN|_
+     21 UPOS Y UposTag=PART|_
+     12 UPOS Y UposTag=PROPN|_
+```
